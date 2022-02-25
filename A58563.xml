@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for putting the kingdome in a posture of defence, to joyne with the present standing forces, and new levy Edinburgh, 3 July, 1650.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58563</idno>
+            <idno type="STC">Wing S1094</idno>
+            <idno type="STC">ESTC R34031</idno>
+            <idno type="EEBO-CITATION">13662366</idno>
+            <idno type="OCLC">ocm 13662366</idno>
+            <idno type="VID">101126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for putting the kingdome in a posture of defence, to joyne with the present standing forces, and new levy Edinburgh, 3 July, 1650.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: pages torn with slight loss of print.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:101126:1" rendition="simple:additions"/>
+            <head>
+               <hi>ACT</hi> Act for putting the Kingdome in a Poſture of Defence, to joyn with the preſent ſtanding For<g ref="char:EOLhyphen"/>ces, and new Levy.</head>
+            <opener>
+               <dateline>EDINBURGH, <date>3. July, 1650.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament now preſently conveened in this fift Seſſion of this ſecond Triennal Parliament, Con<g ref="char:EOLhyphen"/>ſidering the great preparations made by the Sectaries in <hi>England,</hi> to invade this Kingdom, To deſtroy the Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Liberties thereof, wherein every ones private condition is included; And that ſundry of their Ships are alrea<g ref="char:EOLhyphen"/>dy taken, and that an Army in an hoſtile manner is daily marching to<g ref="char:EOLhyphen"/>ward their Border, And having ſeverall Intelligences that they intend without keeping of the Order of the Treaty, or giving any previous warning, to fall in upon this Nation; And withall, Conſidering that the Kings Majeſty hath given ſatisfaction to the Demands of the Par<g ref="char:EOLhyphen"/>liament, and hath ſworn and ſubſcribed the Nationall Covenant, and the ſolemn League and Covenant; And is ſafely arrived within this Kingdome, and that they are obliged to defend his Royall perſon and authority in preſervation of the true Religion, and Liberties of the Kingdome; And that according to the Law of God and Nations and the continued Acts and practiſes of the Nation, All ſenſible <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons betwixt 60. and 16. are bound to riſe in Arms to defend the King and Kingdome from Invaſion. Yet, The Eſtates of Parliament being de<g ref="char:EOLhyphen"/>ſirous to avoyd the confuſion by the coming together of all ſenſible perſons, Have rather thought fit, that a ſelect number of Horſe and Foot be in every Shire put in Companies, Troops, and Regiments; That they withall the Noblemen, Gentlemen, Heritors, Life-renters, Fewars, Wod-ſetters, may upon the ſight of the Be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cons, or advertiſe<g ref="char:EOLhyphen"/>ment from the Parliament, Committee of Eſtates, or Generall Offi<g ref="char:EOLhyphen"/>cers, march to the Rendezvouz of the Shire, and from thence to the place where the Army ſhall be, or where they ſhall receive Orders to goe to for defence of the Kingdome: Therefore the Eſtates of Parliament doth appoint and ordain, that every Shyre ſhall have in readineſſe in Companies, Troops, and Regiments, the proportion of the Foot and Horſe, as after followes; <hi>Viz.</hi>
+            </p>
+            <div type="part">
+               <head>For the Horſe.</head>
+               <p>
+                  <hi>Roxbrugh,</hi> 180. <hi>Inde</hi> 2. Troopes, Reſts 30. which being joyned with <hi>Selkirk,</hi> whoſe proportion is 47. makes 1. Troop, reſts 2. <hi>Dum<g ref="char:EOLhyphen"/>freis</hi> 146. <hi>Inde</hi> 2. Troops, wants 4. <hi>Wigtown</hi> and <hi>Kirkcudbright</hi> 110. 1. Troop; reſts 55. which being joyned with <hi>Dumbartan,</hi> whoſe pro<g ref="char:EOLhyphen"/>portion in 30. makes 1. Troop, reſts of <hi>Dumbartan</hi> 10. <hi>Air</hi> 173. and <hi>Renfrew</hi> 58. makes 3. Troops, at 73. the Troop. <hi>Lanerk</hi> 117. one Troop, reſts 42. which being joyned with <hi>Clakmanan</hi> 28. makes one Troop. <hi>Haddington</hi> 133. makes 2 Troops, at 67. the Troop. <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi>
+                  <pb n="2" facs="tcp:101126:2"/>133. makes up 2. Troops, at 97. the piece. <hi>Peebles</hi> 49. with the reſt of <hi>Dumbartan,</hi> which is 10. and the reſt of <hi>Selkirk,</hi> which is 2. makes 1. Troop of 61. <hi>Lithgow,</hi> 66. 1. Troop. <hi>Stirling</hi> 90. and <hi>Bute</hi> 13. makes 2. Troops at 52. the piece. <hi>Pearth</hi> 228. three compleat Troops, reſts of <hi>Pearth</hi> 3. <hi>Fyfe</hi> and <hi>Kinroſhire,</hi> 290. 4. compleat Troops. <hi>Forfar</hi> 160. makes 2. Troops, reſts 10. <hi>Kincardin</hi> 44. which with 10. out of the reſt of <hi>Forfar,</hi> makes 1. Troop, at 54. <hi>Aberdeen</hi> 186. makes 3. Troops at 62. <hi>Elgin</hi> 54. and <hi>Nairne</hi> 14. makes a Troop at 68. <hi>Bamff</hi> 56. one Troop. <hi>Innerneſſe</hi> and <hi>Roſſe,</hi> 138. makes two Troops, at 98. the Troop. <hi>Sutherland</hi> 15. <hi>Caithnes</hi> 24. <hi>Cromartie</hi> 3. one Troop at 42. <hi>Orknay</hi> and <hi>Zetland</hi> 54. one Troop. <hi>Argyle</hi> 80. one Troop.</p>
+            </div>
+            <div type="part">
+               <head>For the Foot.</head>
+               <p>
+                  <hi>Mid Lothian</hi> 900. one Regiment. <hi>Haddington</hi> 900. one Regi<g ref="char:EOLhyphen"/>ment. <hi>Barwick</hi> 900. one Regiment. <hi>Dumfreis</hi> 900. one Regiment. <hi>Roxbrugh</hi> and <hi>Selkirk,</hi> 1500. <hi>Peebles</hi> 300. <hi>Inde</hi> 1800. <hi>Inde</hi> two Re<g ref="char:EOLhyphen"/>giments at 900. a piece. <hi>Fyfe</hi> and <hi>Kinroſſe</hi> 1800. two Regiments at 700. a piece. <hi>Lithgow,</hi> 374. <hi>Stirling</hi> and <hi>Clakmanan,</hi> 750. <hi>Inde</hi> 1124. one Regiment. <hi>Wigtown</hi> and <hi>Kirkcudbright,</hi> 900. one Regiment. <hi>La<g ref="char:EOLhyphen"/>nerk</hi> 900. one Regiment. <hi>Air</hi> and <hi>Renfrew</hi> 1500. with <hi>Dumbartan</hi> joyned, whoſe proportion is 240. makes in all two Regiments, at 870. a piece. <hi>Pearth</hi> 1840. two Regiments. <hi>Forfar</hi> 1214. one Regi<g ref="char:EOLhyphen"/>ment. <hi>Kincardin</hi> and <hi>Marſhalls</hi> part of <hi>Aberdeen,</hi> 900. one Regi<g ref="char:EOLhyphen"/>ment. Reſt of <hi>Aberdeen</hi> and <hi>Bamff,</hi> 1200. one Regiment. <hi>Elgin, Nairn,</hi> and that part of <hi>Innereſſe</hi> on this ſide <hi>Neſs,</hi> 750. one Regi<g ref="char:EOLhyphen"/>ment. <hi>Seaforth</hi> and <hi>Lovats</hi> diviſion of <hi>Innerneſſe,</hi> 750. one Regiment. Reſt of <hi>Innerneſſe, Sutherland, Roſse,</hi> and <hi>Caithneſse,</hi> 1200. one Regi<g ref="char:EOLhyphen"/>ment. <hi>Orknay,</hi> and <hi>Zetland,</hi> 750. and <hi>Bute,</hi> one Regiment. <hi>Argyles</hi> diviſion of <hi>Innerneſse,</hi> 800. one Regiment.</p>
+               <p>And that by and attour, theſe of the late Leavie of the date the twenty fift of <hi>June</hi> laſt by-paſt, who are no wayes to be retarded by this Act, which is in place of the Act of Poſture of all the ſenſible men, and which is appointed for the ſtrengthning of the new Leavie, and of the old Forces, And this is alſo by and attour the outcoming of all Noblemen, Gentlemen, Heretors, Life-renters, Fewars, and Wed-ſetters, excepting as is after excepted. Likeas the ſaids Eſtates nominates theſe who are herewith ſent to be Colonels for the Regi<g ref="char:EOLhyphen"/>ments of Foot above ſpecified, <hi>viz.</hi> For the Sheriffdome of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> The Lord <hi>Balmerinoch</hi> to be Colonell. For the Shyre of <hi>Had<g ref="char:EOLhyphen"/>dington,</hi> The Lord <hi>Angus.</hi> For <hi>Berwick,</hi> The Laird of <hi>Iddington.</hi> For <hi>Dumfreis, Archbald Douglas</hi> of <hi>Dornoch,</hi> and <hi>Crawfurdtown</hi> his Lieu<g ref="char:EOLhyphen"/>tenant Colonell; <hi>Roxbrugh, Selkirk,</hi> and <hi>Peebles,</hi> The Earles of <hi>Lo<g ref="char:EOLhyphen"/>thian</hi> and <hi>Buckoleuch; Fyfe</hi> and <hi>Kinroſhire,</hi> The Lord <hi>Burgly,</hi> or the Laird of <hi>Waghton,</hi> and Sir <hi>William Douglas<g ref="char:punc">▪</g> Lithgow, Stirling,</hi> and <hi>Clakmanan</hi> Shyres, The Laird of <hi>Buchanan</hi> and Sir <hi>Joſeph Donglas,</hi> Lieutenant Colonell. <hi>Wigtoun,</hi> and <hi>Stewartrie</hi> of <hi>Kirkcudbright,</hi> The Lord <hi>Kirkcudbright. Lanerk,</hi> Sir <hi>William Carmichael. Air, Renfrew,</hi> and <hi>Dumbartan,</hi> The Lord <hi>Chancellour,</hi> or the Lord <hi>Mauchlein</hi> his ſon, and the Earle of <hi>Caſsils</hi> Colonels. For <hi>Pearth</hi> Shyre, the Lord <hi>Couper,</hi> and the Laird of <hi>Gleneagies</hi> Elder; <hi>Forfar,</hi> The Laird of <hi>Ed<g ref="char:EOLhyphen"/>ȝell.
+<pb n="3" facs="tcp:101126:2" rendition="simple:additions"/>Kincarden,</hi> and <hi>Marſhals</hi> part of <hi>Aberdeen,</hi> The Viſcount of <hi>Ar<g ref="char:EOLhyphen"/>buthnot.</hi> Reſt of <hi>Aberdeen</hi> and <hi>Bamff</hi> The Laird of <hi>Leſlye</hi> younger. <hi>El<g ref="char:EOLhyphen"/>gin, Nairn,</hi> and the Earle of <hi>Murrayes</hi> diviſion of <hi>Innerneſſe,</hi> Sir <hi>Alex<g ref="char:EOLhyphen"/>ander Sutherland</hi> of <hi>Duffus. Seafort,</hi> and Lord <hi>Lovats</hi> diviſion of <hi>Inner<g ref="char:EOLhyphen"/>neſse, Alexander Frazer</hi> Tutor of <hi>Lovat.</hi> Marqueſſe of <hi>Argyles</hi> diviſion of <hi>Innerneſſe,</hi> The ſaid Lord Marqueſſe of <hi>Argyle,</hi> or any he pleaſes name. The reſt of <hi>Innerneſse, Roſſe, Sutherland,</hi> and <hi>Caithnes,</hi> The Earl of <hi>Sutherland</hi> or any he pleaſes nominate and appoint, Major <hi>Roſs,</hi> Sir <hi>John Sincler</hi> of <hi>Dumbeath. Orkney</hi> and <hi>Zeatland,</hi> And anent the foot appointed to be put forth by the Shyres of <hi>Air, Renfrew,</hi> and <hi>Dumbartan,</hi> if the Earl of <hi>Loudoun,</hi> Lord <hi>Chaucellour,</hi> or L. <hi>Machlein</hi> his Son, and the Earl of <hi>Caſsils</hi> Colonels aforeſaid or any one of them, crave that ſuch a number of the ſaid foot be converted unto horſe, as with the proportion of horſe above mentioned, to be put forth by the ſaids Shyres, will make up a Regiment of horſe; In that caſe the ſaids Eſtates of Parliament, do give Power, Liberty, and Free<g ref="char:EOLhyphen"/>dom to the Committees of War of the ſaids Shyres in their option, to convert ſo many of the ſaids foot into horſe, at the rate of one horſe<g ref="char:EOLhyphen"/>man for three footmen, as ſhall be deſired by the ſaids Colonels, or a<g ref="char:EOLhyphen"/>ny of them. And the ſaids Eſtates Ordains the Committees of War, with the advice of the Colonels in the ſeverall Shyres and diviſions they being preſent, to meet all in their own ſeverall Committees, im<g ref="char:EOLhyphen"/>mediately after the receipt of this Act; And that they ſit continually from day to day, untill they determine, proportion and ſettle the ſaids numbers of horſe and foot in ſeverall Troops, Companies and Regi<g ref="char:EOLhyphen"/>ments, and chooſe and appoint more Colonels, Rootmaſters, and all Officers neceſſary; they being perſons ſo qualified, as is required in the late printed Act of Leavie, for leading and commanding the ſaids for<g ref="char:EOLhyphen"/>ces, and that they ſend in the names of theſe whom they appoint, unto the Committee of the Parliament which is appointed for purging of the Army. And the ſaids Eſtates Ordains the footmen to be ſufficient<g ref="char:EOLhyphen"/>ly armed with Muſkets, Pikes, and Swords, and any other their beſt armes, and the horſemen to be armed with Piſtols and Lances, broad Swords, and ſteel Caps. And if any of the Heritors or other perſons aforeſaids be aged, or known to be infirme, or be perſons excepted, as after followes, That they ſend out able men with their beſt horſe and armes, and that the Magiſtrates within Burghs, Heritors, &amp; others deſigned as aforeſaid, or in their abſence, the Baillies and Fa<g ref="char:EOLhyphen"/>ctors to Landward, ſhalbe anſwerable for bringing the perſons with<g ref="char:EOLhyphen"/>in their bounds, according to their proportion armed as ſaid is, and where they have no arms, that they bring mony to buy them with, &amp; that under the like pains as is contained in the late Act of Levie. And the ſaids Eſtates Ordains the Noblemen, Gentlemen, Heritors, Fewers and Woodſetters, to provide themſelves, and the proportions whom they hereby are to put forth, with 30. daies proviſion, for theſe on this ſide of <hi>Aberdeen,</hi> &amp; with 40. daies proviſion for theſe by North <hi>Aber<g ref="char:EOLhyphen"/>deen.</hi> And farther, the ſaids Eſtates appoints the Committees of War, to provide as many <hi>Arms</hi> and Ammunition, as will arm the numbers aforeſaid, craved from the Shire, and that either by giving preſent mo<g ref="char:EOLhyphen"/>ny for them, or Bands for payment thereof, at a certain <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ey to
+<pb n="4" facs="tcp:101126:3" rendition="simple:additions"/>have letters of releif againſt the Heritors for repaiment of the ſame; with power to the ſaid Committees, to diſtribute armes to theſe who wants, and with direction to the Colonel to cauſe dreill and train the ſaid men, put them in Companies, Troops, and Regiments. And the ſaid Eſtates appoints the Committees of War, and Colonels, to agree and reſolve upon ſuch place &amp; places, whereunto they will appoint the foreſaid horſe &amp; foot of the Shyre to have the Rendezvouz within the Shyre, upon the ſeeing of the Beacons burning, or upon other adver<g ref="char:EOLhyphen"/>tiſement from their neighbour Shyres of the country, or from the ge<g ref="char:EOLhyphen"/>nerall Officers, for to riſe, that from thence they may march and joyn with the army where they ſhal be, or according as they ſhal receive Or<g ref="char:EOLhyphen"/>der from the Parliament, Committee of Eſtates, or generall Officers, &amp; to the effect foreſaid, The ſaids Eſtates appoints the Comittees of War in every Shyre, without failȝie or delay, at the firſt meeting to cauſe erect Bea<g ref="char:EOLhyphen"/>cons, and have all other things neceſſary ready upon the tops of the higheſt places within the Shyre where Beacons uſed before to be put; that by the firing of the ſame, the people of their own Shyre may be warned to draw preſently to the Rendezvouz, and the other Shires alſo may be warned to draw to their Rendez<g ref="char:EOLhyphen"/>vouz, that ſo they may all the ſooner joyn with the Army for defence of the Kingdome; Likeas they appoint the Committees of War of the Shyres, or any of them, or any of their Officers, to give preſent advertiſement thereof to theſe of their neighbouring Shyres, and ſo from Shyre to Shyre with all poſſible ſpeed, and alſo to the Committees of Eſtates and generall Officers. And further, The Eſtates of Parliament Ordains all Noblemen, Gentlemen, Heretors, Life-renters, Fewars and Woodſetters, to come forth themſelves, under the pains following, (except the Burgh of <hi>Edinburgh, Sterling, Pearth,</hi> and <hi>Dundee,</hi> who are or<g ref="char:EOLhyphen"/>dained hereby to put all their ſenſible perſons within their townes, in Arms and Poſture of Defence, for ſafety of theſe places; and except theſe perſons who are debarred from publick truſt, by the firſt and ſecond Claſſe of the Act at Saint <hi>An<g ref="char:EOLhyphen"/>droos,</hi> 1646. and at <hi>Edinburgh.</hi> 1640. who are hereby appointed to put out all their proportions within their bounds, with their beſt horſe &amp; armes at the ſight of the Committee of War, under the command of theſe who are appoynted by the Parliament, or Committee of War of the Shyre as aforeſaid; but are hereby diſcharged under the pains contained the Band, for keeping the peace, either to aſſociate themſelves in parties in armes, or to joyn with our army) <hi>viz.</hi> Ilk No<g ref="char:EOLhyphen"/>bleman, Gentleman, Heritor, Life-renter, and Woodſetter, under the pain of be<g ref="char:EOLhyphen"/>ing eſteemed infringers of their Covenant, neglecters of the defence of Religion, the King, and the Kingdome; and of being puniſhed by death, infamy, loſſe of all their moveables, and forfeiture of a third part of their Eſtates. And further, The ſaids Eſtates doth ordain and appoint, That by and attour the numbers afore<g ref="char:EOLhyphen"/>ſaid, in the bordering Shyres, and the other Shyres where the actuall Invaſion ſhall be; That upon the ſaid Invaſion, or upon the ſight of the Beacons. The whole perſons ſenſible riſe in armes, and draw together to the place where the ſtanding forces of the Kingdom are at a Rendezvouz, or whereto they ſhall re<g ref="char:EOLhyphen"/>ceive orders to march, and to the end none may pretend Ignorance, Ordains the Act to be publiſhed at the Mercat Croſſe of <hi>Edinburgh;</hi> and withall, Ordains it to be printed, and ſent to the Committees of War of the ſeverall Shyres, who are hereby required to put the ſame with all poſſible diligence in execution, as they would not be eſteemed and puniſhed as infringers of the Covenant, and neglecters of the defence of the Religion, King and Kingdome; And withall declares, that the publiſhing hereof at the Mercat Croſſe of <hi>Edinburgh,</hi> and Printing of the ſame, ſhall be a ſufficient intimation againſt the contraviners thereof.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
